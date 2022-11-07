@@ -1,5 +1,7 @@
 # Hi there, I'm Mohamed!👋
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=M0hamedFathy&show_icons=true&theme=radical)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=M0hamedFathy&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **M0hamedFathy/M0hamedFathy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
