@@ -1,9 +1,9 @@
 # Hi there, I'm Mohamed!👋
 ### As a front-end developer, I bring to bear an arsenal of programming languages and methodologies for building user interfaces and experiences that are not only aesthetically pleasing but highly functional and intuitive.
-<br/>
+<hr/>
 
-<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=M0hamedFathy&show_icons=true&theme=radical"/>
-<img align="left" width = "47%"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=M0hamedFathy&layout=compact"/>
+<img align="left" width="48%" src="https://github-readme-stats.vercel.app/api?username=M0hamedFathy&show_icons=true&theme=radical"/>
+<img align="left" width = "48%"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=M0hamedFathy&layout=compact"/>
 
 
 <img align="left" src="https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white" />
