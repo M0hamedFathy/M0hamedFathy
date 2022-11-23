@@ -57,22 +57,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h1 align="center">Hi 👋, I'm Ahmed osama salem</h1>
-<h3 align="center">A passionate frontend developer from Egypt</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmed-osama-salem&label=Profile%20views&color=0e75b6&style=flat" alt="ahmed-osama-salem" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ahmed-osama-salem" alt="ahmed-osama-salem" /></a> </p>
-
-- 🌱 I’m currently learning java **Java data structures**
-
-- 👨‍💻 All of my projects are available at [https://ahmed-osama-salem.github.io/ahmed-profile.js/](https://ahmed-osama-salem.github.io/ahmed-profile.js/)
-
-- 💬 Ask me about **React , nextjs , typescript**
-
-- 📫 How to reach me **Ahmedosamaweb@gmail.com**
-
-- ⚡ Fun fact **Montage**
 
 
 
