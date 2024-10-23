@@ -1,42 +1,56 @@
-<h1 align="center">Hi 👋, I'm Mohamed Fathy El-shazly</h1>
-<h3 align="center">As a front-end developer, I bring to bear an arsenal of programming languages and methodologies for building user interfaces and experiences that are not only aesthetically pleasing but highly functional and intuitive.</h3>
+<h1 align="center">Hi 👋, I'm Mohamed Fathy El-Shazly</h1>
+<h3 align="center">Frontend Engineer | Angular, React, Vue Specialist | Building Seamless User Experiences for Global Events</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=M0hamedFathy&label=Profile%20views&color=0e75b6&style=flat" alt="Mohamed-Fathy-El-shazly" /> </p>
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=M0hamedFathy&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+</p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=M0hamedFathy" alt="Mohamed-Fathy-El-shazly" /></a> </p>
+<p align="left">
+  <a href="https://github-profile-trophy.vercel.app/?username=M0hamedFathy" target="_blank">
+    <img src="https://github-profile-trophy.vercel.app/?username=M0hamedFathy" alt="Trophies" />
+  </a>
+</p>
 
-- 🌱 I’m currently learning React
+- 🌱 I’m currently learning **SSR Best Practices, Signals, and Italian for Professional Growth**
 
-<!-- - 👨‍💻 All of my projects are available at [https://ahmed-osama-salem.github.io/ahmed-profile.js/](https://ahmed-osama-salem.github.io/ahmed-profile.js/) -->
+- 👨‍💻 I have contributed to major global events, including **FIFA World Cup 2022** and the **Geneva Motor Show**
 
-- 💬 Ask me about **Angular , JavaScript , typescript**
+- 💬 Ask me about **Angular, React, Vue, Next.js, Nuxt, SSR, TypeScript, JavaScript**
 
-- 📫 How to reach me **mohamedfathyelshazli@gmail.com**
+- 📫 How to reach me: **mohamedfathyelshazli@gmail.com**
 
-- ⚡ Fun fact **Montage**
+- ⚡ Fun fact: **I enjoy working with complex UI animations and exploring Italian culture**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/m0hamed-fathy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Mohamed Fathy" height="30" width="40" /></a>
-<a href="https://https://stackoverflow.com/users/19425971/mohamed-fathy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="ahmed osama salem" height="30" width="40" /></a>
+  <a href="https://linkedin.com/in/m0hamed-fathy" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+  </a>
+  <a href="https://stackoverflow.com/users/19425971/mohamed-fathy" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="Stack Overflow" height="30" width="40" />
+  </a>
 </p>
 
+<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=M0hamedFathy&show_icons=true&theme=radical" alt="GitHub Stats" />
+<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=M0hamedFathy&layout=compact" alt="Top Languages" />
 
-<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=M0hamedFathy&show_icons=true&theme=radical"/>
-<img align="left" width = "47%"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=M0hamedFathy&layout=compact"/>
+<br clear="both" />
 
+<h3 align="left">Tech Stack:</h3>
+<p align="left">
+  <img src="https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white" alt="Angular" />
+  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/rxjs-%23B7178C.svg?style=for-the-badge&logo=reactivex&logoColor=white" alt="RxJS" />
+  <img src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white" alt="React Router" />
+  <img src="https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white" alt="Redux" />
+  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white" alt="SASS" />
+  <img src="https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens" alt="JWT" />
+</p>
 
-<img align="left" src="https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white" />
-<img align="left" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
-<img align="left" src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" />
-<img align="left" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
-<img align="left" src="https://img.shields.io/badge/rxjs-%23B7178C.svg?style=for-the-badge&logo=reactivex&logoColor=white" />
-<img align="left" src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white" />
-<img align="left" src="https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white" />
-<img align="left" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
-<img align="left" src="hhttps://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
-<img align="left" src="https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white" />
-<img align="left" src="https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens" />
 
 
 
