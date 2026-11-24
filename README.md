@@ -3,7 +3,7 @@
   <source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/M0hamedFathy/M0hamedFathy/HEAD/assets/masthead-phone-dark.svg">
   <source media="(max-width: 600px)" srcset="https://raw.githubusercontent.com/M0hamedFathy/M0hamedFathy/HEAD/assets/masthead-phone-light.svg">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/M0hamedFathy/M0hamedFathy/HEAD/assets/masthead-desk-dark.svg">
-  <img alt="Mohamed Fathy El-Shazly (محمد فتحي الشاذلي). Frontend Engineering Lead and Engineering &amp; Delivery Manager. I’ve led frontend teams building public-sector platforms for Italian regions, the EU and NATO. I still do the architecture myself, mostly Angular, micro-frontends and server-side rendering. I work in Arabic, English and Italian." src="https://raw.githubusercontent.com/M0hamedFathy/M0hamedFathy/HEAD/assets/masthead-desk-light.svg" width="100%">
+  <img alt="Mohamed Fathy El-Shazly (محمد فتحي الشاذلي). Frontend Engineering Lead and Engineering &amp; Delivery Manager. I’ve led teams building public-sector platforms for Italian regions, the EU and NATO. I still do the architecture myself, mostly Angular, micro-frontends and server-side rendering. I work in Arabic, English and Italian." src="https://raw.githubusercontent.com/M0hamedFathy/M0hamedFathy/HEAD/assets/masthead-desk-light.svg" width="100%">
 </picture>
 </p>
 
